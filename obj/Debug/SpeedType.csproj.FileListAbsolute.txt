@@ -1,0 +1,10 @@
+E:\Eugen\SpeedType\SpeedType\bin\Debug\SpeedType.exe.config
+E:\Eugen\SpeedType\SpeedType\bin\Debug\SpeedType.exe
+E:\Eugen\SpeedType\SpeedType\bin\Debug\SpeedType.pdb
+E:\Eugen\SpeedType\SpeedType\obj\Debug\SpeedType.csprojAssemblyReference.cache
+E:\Eugen\SpeedType\SpeedType\obj\Debug\SpeedType.Form1.resources
+E:\Eugen\SpeedType\SpeedType\obj\Debug\SpeedType.Properties.Resources.resources
+E:\Eugen\SpeedType\SpeedType\obj\Debug\SpeedType.csproj.GenerateResource.cache
+E:\Eugen\SpeedType\SpeedType\obj\Debug\SpeedType.csproj.CoreCompileInputs.cache
+E:\Eugen\SpeedType\SpeedType\obj\Debug\SpeedType.exe
+E:\Eugen\SpeedType\SpeedType\obj\Debug\SpeedType.pdb
